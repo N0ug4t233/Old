@@ -4,7 +4,7 @@
 测试环境为Ubuntu 18.04 LTS  
 其他版本自行测试(逃) 
 
-``  
+`https://raw.githubusercontent.com/N0ug4t233/Old/master/AutoNodeBB/NodeBB.sh`  
 `bash NodeBB.sh`  
 完成后需要手动改一下`config.json`  
 `vim ~/nodebb/config.json`  
